@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/mappers/book.xml" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;a0a7dff8-4da9-4da9-8841-ce65d6530012&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;imooc_reader&quot;      }     }    }   }  } }}" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mappers/test.xml" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;a0a7dff8-4da9-4da9-8841-ce65d6530012&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;imooc_reader&quot;      }     }    }   }  } }}" />
+  </component>
+</project>
